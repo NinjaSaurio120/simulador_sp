@@ -3,13 +3,16 @@
 Simulador interactivo para entender cómo se forma una anomalía de potencial espontáneo (SP),
 cómo se ajusta un modelo a los datos y **cuánto se puede confiar** en lo que se concluye.
 
-Maestría en Ciencias – Geofísica · Universidad Nacional de Colombia
+Maestría en Ciencias – Geofísica · Universidad Nacional de Colombia  
 Milton Daniel Díaz Barrera · Daniela Liseth Saballet Franco
 
 ## Abrir en el navegador (Binder, sin instalar nada)
 
-[![Binder]([https://mybinder.org/badge_logo.svg](https://mybinder.org/v2/gh/NinjaSaurio120/simulador_sp/HEAD?urlpath=lab/tree/SP_interactivo.ipynb))]
-1. Clic en https://mybinder.org/badge_logo.svg](https://mybinder.org/v2/gh/NinjaSaurio120/simulador_sp/HEAD?urlpath=lab/tree/SP_interactivo.ipynb (la primera vez tarda unos minutos en preparar el entorno).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NinjaSaurio120/simulador_sp/HEAD?urlpath=lab/tree/SP_interactivo.ipynb)
+
+1. Clic en el botón **launch binder** de arriba, o abre este enlace:
+   https://mybinder.org/v2/gh/NinjaSaurio120/simulador_sp/HEAD?urlpath=lab/tree/SP_interactivo.ipynb
+   (la primera vez tarda unos minutos en preparar el entorno).
 2. Se abre `SP_interactivo.ipynb`: ejecuta la celda y usa los controles.
 3. Para comprobar que el simulador calcula bien, abre `SP_verificacion.ipynb` y ejecútalo.
 
